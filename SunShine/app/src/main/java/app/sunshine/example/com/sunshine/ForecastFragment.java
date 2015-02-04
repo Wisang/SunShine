@@ -25,6 +25,8 @@ import java.util.List;
  */
 public class ForecastFragment extends Fragment {
 
+    //test git for dummy change
+
     public class FetchWeatherTask extends AsyncTask<Void, Void, Void> {
 
         private final String LOG_TAG = FetchWeatherTask.class.getSimpleName();
